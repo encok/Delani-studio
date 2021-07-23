@@ -18,6 +18,7 @@ All interested people are advised to create a branch on gitHub and clone this pr
 
 ## Licence
 MIT License
+https://opensource.org/licenses/MIT
 
 Copyright (c) [2021] [Enock Kipronoh]
 
