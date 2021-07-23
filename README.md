@@ -12,14 +12,14 @@ The main languages used for the project are Html, css and javascript(jQuery).
 
 
 ## Project setup instructions
-Akan Naming-Calculator uses VScode, Atom , notepad++ and sublime text3 editors. This therefore implies that one is needed to have either of the editors installed in their machines/computers so as to be able to run the program.
+Delani-Studio uses VScode, Atom , notepad++ and sublime text3 editors. This therefore implies that one is needed to have either of the editors installed in their machines/computers so as to be able to run the program.
 All interested people are advised to create a branch on gitHub and clone this project and make any necessary improvements. On my trial branch, you shall merge the two branches to have your improvements reflected. I will be so grateful.
 ## Live Site on GitHub
-https://encok.github.io/Akan-Name-Calculator/
+
 ## Licence
 MIT License
 
-Copyright (c) [2021] [Enock]
+Copyright (c) [2021] [Enock Kipronoh]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,4 +39,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Copyright 
-Akan Naming-Calculator uses MIT license which means anyone is free to clone the project and go and improve it.
+Delani-Studio website project uses MIT license which means anyone is free to clone the project and go and improve it.
