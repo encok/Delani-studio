@@ -10,16 +10,16 @@ $(document).ready(function(){
     }); 
 });
 
-// $(document).ready(function(){
-//     $("#development-img").click(function(){
-//      $("#development-img").slideDown('1400').hide('1000');
-//      $("#development").show('1400');
-//     });
-//     $("#development").click(function(){
-//         $("#development").slideUp('1400');
-//         $("#development-img").slideDown('1400');
-//     }); 
-// });
+$(document).ready(function(){
+    $("#development-img").click(function(){
+     $("#development-img").slideDown('1400').hide('1000');
+     $("#development").show('1400');
+    });
+    $("#development").click(function(){
+        $("#development").slideUp('1400');
+        $("#development-img").slideDown('1400');
+    }); 
+});
 
 // $(document).ready(function(){
 //     $("#product-img").click(function(){
