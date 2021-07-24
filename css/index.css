@@ -75,24 +75,19 @@ body{
     display: none;
 }
 /* portfolio section */
-.works{
+#portfolio{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly; 
-    margin-left: 50px;
-}
-.works img{
-    height: 200px;
-    width: 200px;
-}
-.works1{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly; 
-    margin-left: 50px;
-    margin-top: 40px;
-}
-.works1 img{
-    height: 200px;
-    width: 200px;
-}
+    align-items: center;
+    margin-left:17%;
+    margin-right: 15%; 
+  }
+  .col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .portfolio h2{
+    text-align: center;
+    padding-top:40px;
+    font-family: inherit;
+  }
