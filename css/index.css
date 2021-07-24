@@ -65,6 +65,15 @@ body{
   .doings .heading{
     padding-bottom: 38px;
   }
+  #design{
+      display: none;
+  }
+  #product{
+    display: none;
+}
+#development{
+    display: none;
+}
 /* portfolio section */
 .works{
     display: flex;
