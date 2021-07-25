@@ -6,9 +6,10 @@ Enock Kipronoh
 This is a website for Delani music studio. It is here where one land on our page as Delani studio. One will be able to see our services, about us and what we do generally.
 The main languages used for the project are Html, css and javascript(jQuery).
 ### screenshots for the sections
-<img src="">
-<img src="">
-<img src="">
+<img src="images/scrn4.png">
+<img src="images/scrn3.png">
+<img src="images/scrn2.png">
+<img src="images/scrn1.png">
 
 
 ## Project setup instructions
