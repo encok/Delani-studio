@@ -6,16 +6,17 @@ Enock Kipronoh
 This is a website for Delani music studio. It is here where one land on our page as Delani studio. One will be able to see our services, about us and what we do generally.
 The main languages used for the project are Html, css and javascript(jQuery).
 ### screenshots for the sections
-<img src="">
-<img src="">
-<img src="">
+<img src="images/scrn4.png">
+<img src="images/scrn3.png">
+<img src="images/scrn2.png">
+<img src="images/scrn1.png">
 
 
 ## Project setup instructions
 Delani-Studio uses VScode, Atom , notepad++ and sublime text3 editors. This therefore implies that one is needed to have either of the editors installed in their machines/computers so as to be able to run the program.
 All interested people are advised to create a branch on gitHub and clone this project and make any necessary improvements. On my trial branch, you shall merge the two branches to have your improvements reflected. I will be so grateful.
 ## Live Site on GitHub
-
+https://encok.github.io/Delani-studio/
 ## Licence
 MIT License
 https://opensource.org/licenses/MIT
