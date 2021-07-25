@@ -91,3 +91,51 @@ body{
     padding-top:40px;
     font-family: inherit;
   }
+  #overlay{
+      background-color: white;
+      opacity: 0.6;
+  }
+ form{
+     background: url("../images/bg1.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+ }
+ .form34A{
+     background: rgba(27,31,34,0.80);
+     width: 640px;
+     margin: 50px auto;
+     max-width: 97%;
+     padding: 55px 30px;
+
+ }
+ .form34A .title h2{
+   letter-spacing: 6px;
+   display: inline-block;
+   padding-bottom: 8px;
+   margin-bottom: 32px;
+   color: white;
+   /* margin-left: 100px; */
+   font-weight: 600;
+
+ }
+ .form34A .half{
+     display: flex;
+     justify-content: space-between;
+ }
+ .form34A .half .item{
+     display: flex;
+     flex-direction: column;
+     margin-bottom: 24px;
+     width: 48%;
+     color: white;
+     font-weight: 600;
+     
+ }
+ .form34A .half .item input{
+     border: 1px solid grey;
+     outline: 0;
+     width: 100%;
+     background: transparent;
+ }
+ 

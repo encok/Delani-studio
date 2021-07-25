@@ -31,3 +31,10 @@ $(document).ready(function(){
         $("#product-img").slideDown('1400');
     }); 
 });
+
+// overlay
+$('#work').hover(function(){
+    $('#overlay',this).slideToggle('slow');
+ }, function(){
+    $('#overlay',this).slideToggle('slow');
+ });
