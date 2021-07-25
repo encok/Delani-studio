@@ -221,7 +221,8 @@ padding: 5px;
  #welcome{
      display: none;
      margin-left: 240px;
-     color: black;
+     color: blue;
      font-style: italic;
+     font-weight: 700;
  }
  
